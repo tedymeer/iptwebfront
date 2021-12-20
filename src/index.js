@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import {BrowserRouter} from "react-router-dom"
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter >
+    <BrowserRouter basename="https://tedymeer.github.io/iptwebfront/">
     <App />
     </BrowserRouter>
   </React.StrictMode>,
