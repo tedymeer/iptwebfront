@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iptwebfront/static/css/main.82ec547e.css",
-    "main.js": "/iptwebfront/static/js/main.c22256da.js",
+    "main.js": "/iptwebfront/static/js/main.218d529f.js",
     "static/js/787.a37cb4dc.chunk.js": "/iptwebfront/static/js/787.a37cb4dc.chunk.js",
     "index.html": "/iptwebfront/index.html",
     "main.82ec547e.css.map": "/iptwebfront/static/css/main.82ec547e.css.map",
-    "main.c22256da.js.map": "/iptwebfront/static/js/main.c22256da.js.map",
+    "main.218d529f.js.map": "/iptwebfront/static/js/main.218d529f.js.map",
     "787.a37cb4dc.chunk.js.map": "/iptwebfront/static/js/787.a37cb4dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82ec547e.css",
-    "static/js/main.c22256da.js"
+    "static/js/main.218d529f.js"
   ]
 }
